@@ -1,0 +1,13 @@
+ipykernel
+python-dotenv
+langchain
+langgraph
+langchain-groq
+grandalf
+streamlit
+uvicorn
+langchain-community
+langchain-tavily
+langchain-openai
+requests
+tavily-python
